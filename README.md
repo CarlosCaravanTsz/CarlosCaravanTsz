@@ -1,10 +1,11 @@
 <div style="display: flex">
-<img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/ipn.png" alt="IPN Logo" width="60" height="60">  
-<img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/esimez.png" alt="ESIMEZ Logo" width="60" height="60">
-<img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/mcgill.png" alt="McGill University Logo" width="100" height="50">
-<img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/kreativstorm.png" alt="KreativStorm Logo" width="50" height="50">
-
+<img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/ipn.png" alt="IPN Logo" width="40" height="40">  
+<img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/esimez.png" alt="ESIMEZ Logo" width="40" height="40">
+<img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/mcgill.png" alt="McGill University Logo" width="120" height="40">
+<img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/kreativstorm.png" alt="KreativStorm Logo" width="30" height="30">
 </div>
+
+
 # 💫 About Me:
 👋 Experienced and passionate software developer from Mexico with background in information systems analysis and development. Proficient in Python, JavaScript and Java ecosystems. My journey in the tech realm has been both thrilling and fulfilling, and I'm here to share some of my interests and experiences.
 
