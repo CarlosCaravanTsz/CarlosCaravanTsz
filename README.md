@@ -1,11 +1,11 @@
 # 💫 About Me:
-## 👋 Experienced and passionate software developer from Mexico with background in information systems analysis and development. Proficient in Python, JavaScript and Java ecosystems. My journey in the tech realm has been both thrilling and fulfilling, and I'm here to share some of my interests and experiences.
+👋 Experienced and passionate software developer from Mexico with background in information systems analysis and development. Proficient in Python, JavaScript and Java ecosystems. My journey in the tech realm has been both thrilling and fulfilling, and I'm here to share some of my interests and experiences.
 
 🔧 Strong skills in software development, application integration, and process automation using various programming languages, including Python, JavaScript/TypeScript, and Java.
 
-## ⚙️ Adept in using agile methodologies such as Scrum 🔄 and Kanban 📋, and experienced in using methodologies like continuous integration. 🔄
+⚙️ Adept in using agile methodologies such as Scrum 🔄 and Kanban 📋, and experienced in using methodologies like continuous integration. 🔄
 
-## 🖥️ Linux & Hacking Enthusiast:
+🖥️ Linux & Hacking Enthusiast:
 I have a strong affinity for Linux and ethical hacking knowledge.
 
 ## 🎮 Gamer:
