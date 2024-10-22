@@ -1,5 +1,5 @@
 <div style="display: flex">
-<img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/ipn.png" alt="IPN Logo" width="40" height="40">  
+<img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/ipn.png" alt="IPN Logo" width="30" height="30">  
 <img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/esimez.png" alt="ESIMEZ Logo" width="40" height="40">
 <img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/mcgill.png" alt="McGill University Logo" width="120" height="40">
 <img src="https://github.com/CarlosCaravanTsz/CarlosCaravanTsz/blob/main/kreativstorm.png" alt="KreativStorm Logo" width="30" height="30">
