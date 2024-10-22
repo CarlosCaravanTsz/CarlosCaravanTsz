@@ -17,3 +17,6 @@ As a software engineer, I'm dedicated to finding elegant solutions to complex pr
 
 ##📚 Lifelong Learner:
 Focused on keeping up with the latest technology advancements, I am analytical, creative, and a quick learner with a mentor mindset. 👨‍🏫 I am passionate about technology and app development and always strive to bring the best results to the table. 💡
+
+# Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
