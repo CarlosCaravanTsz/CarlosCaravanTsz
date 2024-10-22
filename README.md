@@ -13,8 +13,11 @@
 
 ⚙️ Adept in using agile methodologies such as Scrum 🔄 and Kanban 📋, and experienced in using methodologies like continuous integration. 🔄
 
-🖥️ Linux & Hacking Enthusiast:
+🌐👨‍💻 Linux & Hacking Enthusiast:
 I have a strong affinity for Linux and ethical hacking knowledge.
+
+📊🧠 MLOps and Data Engineer lover:
+I have a strong interest in building Machine Learning models for data-driven cultures and looking for useful insights.
 
 ## 🎮 Gamer:
 When I'm not diving into the intricacies of software and Linux, you can often find me in the gaming world. Video games are my go-to for unwinding and having fun. Whether it's exploring virtual worlds or engaging in epic battles, gaming is a significant part of my life.
